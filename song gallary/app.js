@@ -29,13 +29,13 @@ let All_song = [
    {
      name: "Wishlist",
      path:"audio/Wishlist.mp3",
-     img:  " /image/maxresdefault.jpg",
+     img:  " ./image/maxresdefault.jpg",
      singer: "Dino James"
    },
    {
 	name: "Maan Meri Jaan",
 	path: "audio/Tu Maan Meri Jaan.mp3",
-	img: "/image/man meri jaan.jpg",
+	img: ".image/man meri jaan.jpg",
 	singer: "King"
   },
    {
