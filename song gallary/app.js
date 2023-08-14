@@ -29,61 +29,61 @@ let All_song = [
    {
      name: "Wishlist",
      path:"audio/Wishlist.mp3",
-     img:  " image/maxresdefault.jpg",
+     img:  " /image/maxresdefault.jpg",
      singer: "Dino James"
    },
    {
 	name: "Maan Meri Jaan",
 	path: "audio/Tu Maan Meri Jaan.mp3",
-	img: "image/man meri jaan.jpg",
+	img: "/image/man meri jaan.jpg",
 	singer: "King"
   },
    {
      name: "Jannatein Kahan",
      path: "audio/Jannatein Kahan (Jannat 2)_64-(PagalWorld.Ink).mp3",
-     img: "image/j2.jpg",
+     img: "/image/j2.jpg",
      singer: "kk"
    },
    {
 	name: "Tere Vaaste",
 	path: "audio/Tere Vaaste.mp3",
-	img: "image/TereV.jpg",
+	img: "/image/TereV.jpg",
 	singer: "Varun Jain"
   },
   {
 	name: "Jaadui",
 	path: "audio/Jaadui.mp3",
-	img: "image/jadui.jpg",
+	img: "/image/jadui.jpg",
 	singer: "Jubin Nautiyal"
   },
   {
 	name: "Tu Aake Dekhle",
 	path: "audio/tu Aake Dekhle.mp3",
-	img: "image/tu aake.jpg",
+	img: "/image/tu aake.jpg",
 	singer: "King"
   },
    {
 	name: "Pal",
 	path: "audio/Pal (Jalebi)_64-(PagalWorld.Ink).mp3",
-	img: "image/hqdefault.jpg",
+	img: "/image/hqdefault.jpg",
 	singer: "Arjit Singh"
   },
   {
 	name: "O Mere Sona Re",
 	path: "audio/O Mere Sona Re King_64-(PagalWorld.Ink).mp3",
-	img: "image/sona.jpg",
+	img: "/image/sona.jpg",
 	singer: "King"
   },
   {
 	name: "Pasoori",
 	path: "audio/Pasoori.mp3",
-	img: "image/ps.jpg",
+	img: "/image/ps.jpg",
 	singer: "Ali Sethi"
   },
   {
 	name: "Malang Sajna",
 	path: "audio/Malang Sajna.mp3",
-	img: "image/2022.jpg",
+	img: "/image/2022.jpg",
 	singer: "Sachet Tandon"
   }
   
